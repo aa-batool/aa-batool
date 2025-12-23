@@ -1,5 +1,9 @@
 # 💫 About Me:
-- 🎓 Computer Science undergraduate from Habib University (CGPA: 3.87), graduated in 2025  <br>- 🤖 Aspiring AI researcher & software engineer with hands-on experience in AI agents, ML, and LLM-based systems  <br>- 🎮 Game development enthusiast with multiple Unity & Python-based games and AI-driven game agents  <br>- 🧠 Experienced in AI research, RAG, agentic systems, and model training/fine-tuning  <br>- 💻 Skilled in Python, React, Unity 3D, and full-stack development  <br>- 🛠️ Passionate about building impactful, real-world applications through AI and software engineering  
+- 🎓 Computer Science undergraduate from Habib University (CGPA: 3.87), graduated in 2025
+- 🤖 Aspiring AI researcher & software engineer with hands-on experience in AI agents, ML, and LLM-based systems
+- 🎮 Game development enthusiast with multiple Unity & Python-based games and AI-driven game agents
+- 🧠 Experienced in AI research, RAG, agentic systems, and model training/fine-tuning  <br>- 💻 Skilled in Python, React, Unity 3D, and full-stack development
+- 🛠️ Passionate about building impactful, real-world applications through AI and software engineering  
 
 
 ## 🌐 Socials:
